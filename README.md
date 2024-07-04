@@ -1,4 +1,4 @@
-# Ice-Cream_App-Unittest
+# Ice-Cream-App-Unittest
 
 <h3>Technologies used in this Project</h3>
 
